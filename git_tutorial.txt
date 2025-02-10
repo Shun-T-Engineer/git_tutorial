@@ -1,2 +1,3 @@
 asdfasdfasd
 git status
+git diff
